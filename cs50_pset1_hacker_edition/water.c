@@ -13,7 +13,7 @@ int main (int argc, char **argv)
 {
     if (argc != 2) 
     {
-        ft_perror("usage: ./water <minutes spent on shower>\n");
+        ft_perror("usage:\n ./water <minutes spent on shower>\n");
         return (1);
     }
     else
