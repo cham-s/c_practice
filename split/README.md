@@ -1,4 +1,4 @@
-##spit
+##split
 
 Takes a string as argument splits it, and return an array of word
 
