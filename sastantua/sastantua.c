@@ -1,5 +1,4 @@
 #include "../tools.h" 
-#include <stdio.h> 
 
 /*temporaty solution maximum size is 6 for now*/
 int     spaces(int size)
