@@ -21,7 +21,7 @@ int main (int argc, char **argv)
             ft_perror("please enter a positive number\n");
             return (1);
         }
-        ft_putstr("bottle used: ");
+        ft_putstr("bottles used: ");
         ft_putnbr(bottles_used(ft_atoi(argv[1])));
         ft_putchar('\n');
         return (0);
