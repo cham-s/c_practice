@@ -1,6 +1,6 @@
 ##sastantua
 
-One of 42 School Exam Entrance one week challenges/projects.
+One of 42 School Entrance Exam one week challenges/projects.
 
 >Préambule
 
