@@ -1,4 +1,4 @@
-# c_practice
+# C Challenges practice.
 ##Challenges to improve my C and my algorithmic thinking
 
 This is basically a list of challenges from my school Entrance Exam and from online challenges to practice my algorithmic thinking.
