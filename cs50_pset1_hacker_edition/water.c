@@ -1,5 +1,7 @@
 #include "../tools.h"
+/* ounce per minute */
 #define O_PM 192
+/* ounce per bottle */
 #define O_PB 16
 
 int     bottles_used(int minutes)
