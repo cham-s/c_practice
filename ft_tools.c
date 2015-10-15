@@ -76,7 +76,7 @@ int     ft_atoi(char *str)
         i--;
         d *= 10;
     }
-    return ((str[i] == '-'? -r : r));
+    return ((str[0] == '-'? -r : r));
 }
 
 int     ft_strlen(char *str)
