@@ -9,7 +9,7 @@ One of 42 School Entrance Exam one week challenges/projects.
 >is widely known for its ability to release the observer’s mind to hitherto
 >unexperienced horizons of beauty
 
-Source: 42 School.
+Source: 42 School www.42.fr.
 
 ```bash
 >$ ./sastantua 1
