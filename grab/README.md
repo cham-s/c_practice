@@ -2,15 +2,6 @@
 
 Finds the word in a file and display all the lines where the word appears. It also display the line number
 
-TODO: 
-- Make it case incensitive
-- Get data from stdin in case of redirection
-
-Known Bugs:
-- The line number comes back to 1, when the buffer gets refilled with data.
-- At buffer max even though there is no newline. The last character is considered as a newline. 
-
-Source for source.txt: www.Time.com, Oct 12 2015.
 ```bash
 >$ ./grab "gun" source.txt
 2: Hillary Clinton talks gun control at town hall meeting
@@ -25,3 +16,12 @@ Source for source.txt: www.Time.com, Oct 12 2015.
 28: Yet neither was 2008, when Clinton won the Nevada caucus. Her state director then was Robby Mook, who is now her national campaign manager. Her field director that year was Marlon Marshall, now the national campaign’s director of public engagement. Emmy Ruiz, who worked on the Clinton 2008 effort and then ran Obama’s successful 2012 race in Nevada, is now overseeing Clinton’s 2016 effort in the state.
 >$
 ```
+Source for source.txt: www.Time.com, Oct 12 2015.
+
+TODO: 
+- Make it case incensitive
+- Get data from stdin in case of redirection
+
+Known Bugs:
+- The line number comes back to 1, when the buffer gets refilled with data.
+- At buffer max even though there is no newline. The last character is considered as a newline. 
