@@ -3,6 +3,8 @@
 Finds the word in a file and display all the lines where the word appears. It also display the line number
 
 ```bash
+>$ gcc main.c ../ft_tools.c -o grab
+
 >$ ./grab "gun" source.txt
 2: Hillary Clinton talks gun control at town hall meeting
 >$
